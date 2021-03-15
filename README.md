@@ -1,4 +1,4 @@
-# Visual-Inertial-SLAM
+# Visual-Inertial SLAM
 
 DESCRIPTION OF FILES
 hw3_main.py
